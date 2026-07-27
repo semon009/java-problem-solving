@@ -64,3 +64,7 @@ The goal is to find the **first row** that has `k` consecutive available seats.
 ## ⏱️ Complexity
 - **Time Complexity:** $\mathcal{O}(n \times m)$ — In the worst-case scenario, we visit each seat in the matrix once.
 - **Space Complexity:** $\mathcal{O}(n \times m)$ — To store the 2D matrix.
+
+---
+
+[Image](Cinema.png)
