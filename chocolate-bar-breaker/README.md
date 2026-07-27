@@ -37,3 +37,5 @@ Three integers separated by whitespace/newlines:
 | `7`<br>`4`<br>`21` | `YES` | $K = 21$ is divisible by $N = 7$ ($3 \times 7 = 21$). Cut 3 full rows. |
 
 ---
+
+[Image](index.webp)
