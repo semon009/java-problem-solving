@@ -33,14 +33,14 @@ Design a class hierarchy for an organization's workforce consisting of three mai
       +-----------------------+
                   ^
                   |
-    +-------------+---------------------+
-    |                                   |
-+-----------------------+   +-----------------------+
-|       Developer       |   |      DataAnalyst      |
-+-----------------------+   +-----------------------+
-| - mainLanguage: String|   | - phd: boolean        |
-| - skills: String[]    |   | - methods: String[]   |
-+-----------------------+   +-----------------------+
+             +----+------------------------------+
+             |                                   |
+    +-----------------------+   +-----------------------+
+    |       Developer       |   |      DataAnalyst      |
+    +-----------------------+   +-----------------------+
+    | - mainLanguage: String|   | - phd: boolean        |
+    | - skills: String[]    |   | - methods: String[]   |
+    +-----------------------+   +-----------------------+
 
 ## 🛠️ Implementation Details
 
